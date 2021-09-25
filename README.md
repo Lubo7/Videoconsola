@@ -22,6 +22,6 @@ El uso de Flexbox va a ser crucial en este caso.
 Extra points:
 Botones que reaccionan al encendido"
 
-As an example I reaused already built videoconsole by my classmate https://github.com/AfroBonsai. 
+As an example I reused already built videoconsole by my classmate https://github.com/AfroBonsai. 
 
 
