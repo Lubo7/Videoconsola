@@ -23,6 +23,5 @@ Extra points:
 Botones que reaccionan al encendido"
 
 As an example I reaused already built videoconsole by my classmate https://github.com/AfroBonsai. 
-My version of videoncosole: 
 
 
