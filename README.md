@@ -1,7 +1,7 @@
 # Videoconsola
 Maqueta de una videoconsola hecha con HTML y CSS
 
-![ScreenShot](Images/Pikachu_pantalla.png)
+![ScreenShot](Images/print_screen_done.png)
 
 This is a first task to deliver during a bootcamp of Full Stack developer run by Geekshubsacademy.es.
 
